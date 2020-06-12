@@ -1,7 +1,7 @@
 # Wandering Minds: Level 1
 A portion of our Final Year Project, a research and development venture aiming to map gamification, cognition, and programming concepts with one another. This is the gameplay demo of the first level.
 
-Heroku-deployed link coming soon!
+Live online demo coming soon!
 
 To run this project:
 1. Install xampp.
